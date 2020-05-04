@@ -17,7 +17,7 @@ public class MainActivity extends AppCompatActivity {
         - Feel free to modify the function to suit your program.
     */
 
-    private static final String TAG = MainActivity.class.getSimpleName();
+    private static final String TAG = "Whack-A-Mole!";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
